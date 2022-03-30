@@ -8,4 +8,4 @@
 <p>Entendendo nossa primeiras tags html </P>
 <h2> Nessa aula conheceremos alguns tags html </h2
 </body>
-</hmtl>
+</html>
